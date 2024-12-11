@@ -7,7 +7,7 @@
 <img width="58%" src="https://github-readme-stats.vercel.app/api?username=olv-stephany&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
 <img align="right" alt="Ste-gif" height="30%" width="30%"  src="https://github.com/user-attachments/assets/892e1dfc-cb0c-46a4-a21f-268b9101828c">
 
-![olv-stephany's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <div style="display: inline_block">
