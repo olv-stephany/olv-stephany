@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌷 Me chamo Stephany, tenho 18 anos e atualmente estou estudando programação visando uma carreira profissional na área de T.I, mais especificadamente em Desenvolvimento Web Front-End.
+- ☕ Me chamo Stephany, tenho 18 anos e atualmente estou estudando programação visando uma carreira profissional na área de T.I, mais especificadamente em Desenvolvimento Web Front-End.
 
 <br>
 
