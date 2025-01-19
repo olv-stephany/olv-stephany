@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo(a) ao meu perfil ✨💫
 
-- 🌷 Me chamo Stephany, tenho 17 anos e atualmente estou estudando programação visando uma carreira profissional na área de T.I, mais especificadamente em Desenvolvimento Web Front-End.
+- 🌷 Me chamo Stephany, tenho 18 anos e atualmente estou estudando programação visando uma carreira profissional na área de T.I, mais especificadamente em Desenvolvimento Web Front-End.
 
 <div> 
   
