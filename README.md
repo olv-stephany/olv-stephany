@@ -11,7 +11,7 @@ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução pa
 
 ---
 
-### 📚 Tecnologias que estudo
+### ☕📚 Tecnologias que estudo
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +27,7 @@ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução pa
 </div>
 
 
-### 📚 Ferramentas
+### ☕ Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="Adobe Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
@@ -41,7 +41,7 @@ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução pa
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
 <div>
   <a href="https://www.linkedin.com/in/stephany-oliveira01/" target="_blank">
@@ -51,7 +51,7 @@ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução pa
 
 ---
 
-### 📊 Estatísticas GitHub
+### Estatísticas GitHub
 
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olv-stephany&theme=graywhite&show_icons=true&hide_border=true&count_private=true"/>
