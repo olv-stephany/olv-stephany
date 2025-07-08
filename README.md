@@ -6,8 +6,7 @@
 
 ### Sobre mim
 
-☕ Me chamo **Stephany**, tenho 18 anos e atualmente estudo programação com foco em **Desenvolvimento Fullstack**.  
-Sou apaixonada por tecnologia e criatividade, e estou em constante evolução para me tornar uma desenvolvedora completa.  
+☕ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução para me tornar uma desenvolvedora completa.  
 
 ---
 
