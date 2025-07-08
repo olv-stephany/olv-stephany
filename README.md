@@ -7,10 +7,11 @@
 ### Sobre mim
 
 ☕ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução para me tornar uma desenvolvedora completa.  
+☕ Interesses: **Desenvolvimento Fullstack e UI/UX Design.**
 
 ---
 
-### ☕📚 Tecnologias que estudo
+### 📚 Tecnologias que estudo
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
