@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olv-stephany&theme=graywhite&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=graywhite&show_icons=true&hide_border=true&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=graywhite&show_icons=true&hide_border=true&layout=compact" width="42%"/>
 </div>
 
 ### Contribuições recentes
