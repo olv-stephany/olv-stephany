@@ -1,9 +1,5 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil ☕
 
-<div>
-  <img width="100%" height="120px" style="object-fit: cover" src="https://github.com/user-attachments/assets/5d7cf283-af3e-457e-b5ad-cbe2b313d862" alt="Banner">
-</div>
-
 ### Sobre mim
 
 ☕ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução para me tornar uma desenvolvedora completa.  
