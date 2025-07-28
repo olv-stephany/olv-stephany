@@ -3,7 +3,7 @@
 ### Sobre mim
 
 ☕ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução para me tornar uma desenvolvedora completa.  
-☕ Interesses: **Desenvolvimento Fullstack e UI/UX Design.**
+☕ Interesses: **Desenvolvimento Web Fullstack, Front-End, Back-End e UI/UX Design.**
 
 ---
 
