@@ -43,7 +43,7 @@
   </a>
 
   <a href="https://outlook.live.com/mail/0/deeplink/compose?to=stephanyodev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-FFFFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=000000" />
   </a>
 </div>
 
