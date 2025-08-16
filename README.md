@@ -41,6 +41,10 @@
   <a href="https://www.linkedin.com/in/stephany-oliveira01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000">
   </a>
+
+  <a href="mailto:stephanyodev@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Outlook-FFFFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=000000">
+</a>
 </div>
 
 ---
