@@ -1,12 +1,5 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil ☕
 
-### Sobre mim
-
-☕ Sou apaixonada por tecnologia e criatividade, e estou em constante evolução para me tornar uma desenvolvedora completa.  
-☕ Interesses: **Desenvolvimento Web Fullstack, Front-End, Back-End e UI/UX Design.**
-
----
-
 ### ☕ Tecnologias que estudo
 
 <div style="display: inline_block">
