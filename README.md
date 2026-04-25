@@ -1,4 +1,4 @@
-<img align='right' width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=dark&show_icons=true&hide_border=true&layout=compact">
+<img align='right' width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=dark&show_icons=true&hide_border=true&layout=compact">
 
 ### Olá, meu nome é Stephany!
 
@@ -17,4 +17,6 @@
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div>
-![](https://komarev.com/ghpvc/?username=olv-stephany)
+<br>
+<a href="https://github.com/olv-stephany">
+<img src="https://komarev.com/ghpvc/?username=olv-stephany&color=111827&logo=data:image/svg+xml;base64"/</a>
