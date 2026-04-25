@@ -1,39 +1,19 @@
-## Olá! Seja bem-vindo(a) ao meu perfil ☕
+<img align='right' width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=dark&show_icons=true&hide_border=true&layout=compact">
 
-### ☕ Tecnologias
+### Olá, meu nome é Stephany!
 
-<div style="display: inline_block">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />        
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-  <img  align="center" alt="PostgreSQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Python"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://img.shields.io/static/v1?label=Overview&message=olv-stephany&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Eu sou desenvolvedora Fullstack <br>(Tive/Tenho) experiência em:</p>
+
+<div display="flex">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />     
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div>
-
-
-### ☕ Ferramentas
-
-<div style="display: inline_block">
-  <img  align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-  <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />
-</div>
-
----
-
-### Onde me encontrar
-
-<div>
-  <a href="https://www.linkedin.com/in/stephany-oliveira01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000">
-  </a>
-
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=stephanyodev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-FFFFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=000000" />
-  </a>
-</div>
-
----
-
