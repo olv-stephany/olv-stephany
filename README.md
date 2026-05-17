@@ -1,5 +1,3 @@
-<img align='right' width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olv-stephany&theme=dark&show_icons=true&hide_border=true&layout=compact">
-
 ### Olá, meu nome é Stephany!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=olv-stephany&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
